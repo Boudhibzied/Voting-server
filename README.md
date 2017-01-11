@@ -6,5 +6,5 @@ server side tech & lib :
 mocha & chai
 socket.io
 immutable
-redux
+redux (makestore())
 babel-cli
